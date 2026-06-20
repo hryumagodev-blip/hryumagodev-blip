@@ -8,5 +8,5 @@ My main tech stack is jupyter notebook and python (numpy, pandas, matplotlib, se
 
 I've got one pinned project,and currently working on the next one.
 
-If you wnat to connect,my linkedln profile is available here.
+
 
